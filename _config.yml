@@ -1,16 +1,16 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "freshblown"
+tagline:            "어제의 내가 만든 오늘, 그리고 내일의 나"
+email:              "freshblown@gmail.com"
+description:        "하고싶은거 하나둘씩 하다보니 지금 내가 된 이야기"
+author:             "freshblown"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://freshblown.com/"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/freshblown_thumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
-instagram_username: instagram_username
+instagram_username: freshblown
 facebook_username:  facebook_username
 linkedin_username:  linkedin_username
 
