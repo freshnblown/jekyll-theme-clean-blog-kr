@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freshblown.com/sitemap.xml
+
+#DaumWebMasterTool:d1f603bb0259346a8c6d19b4dfd2936a65a5bc9610e69753b2d876de272e1c71:SBDn+3M1gAUD2c6N/ci3rg==
