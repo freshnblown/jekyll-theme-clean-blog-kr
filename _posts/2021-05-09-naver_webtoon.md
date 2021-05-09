@@ -5,7 +5,7 @@ title: '콘텐츠 해비유저가 콕 집은 네이버 웹툰 띵작 3'
 date: 2021-05-09 10:35:00 +09:00
 feature: '/img/posts/03-wentoon/naver-webtoon-thum.png'
 categories:
-  - media_review
+  - contents_review
 tags:
   - 네이버 웹툰 추천
   - 아홉수우리들

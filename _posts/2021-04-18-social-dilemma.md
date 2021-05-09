@@ -5,7 +5,7 @@ title: '소셜딜레마를 본 마케터의 딜레마'
 date: 2021-04-18 10:35:00 +09:00
 feature: '/img/posts/01-social-dilemma/contents_thumbnail.png'
 categories:
-  - media_review
+  - contents_review
 tags:
   - 넷플릭스 추천
   - 넷플릭스 다큐멘터리
