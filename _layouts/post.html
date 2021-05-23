@@ -51,3 +51,14 @@ layout: default
     </div>
   </article>
 {% include disqus.html %}
+
+  <script>
+  var event = document.querySelector('#post-content');
+  event.addEventListener("load", function( ) {
+    gtag('event', '보기', {
+    'event_category': '글',
+    'event_label': {{ post.title }},
+    'value': 10
+    });
+    }, false);
+  </script>
