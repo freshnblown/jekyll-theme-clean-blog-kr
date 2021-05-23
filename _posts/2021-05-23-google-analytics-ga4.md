@@ -2,7 +2,7 @@
 layout: post
 permalink: /google-analytics-ga4/
 title: '구글애널리틱스 GA4 사용해야 할까?'
-date: 2021-05-09 10:35:00 +09:00
+date: 2021-05-23 10:35:00 +09:00
 feature: '/img/posts/04-google-analytics-ga4/GA4_thumnail.png'
 categories:
   - digital-marketing
