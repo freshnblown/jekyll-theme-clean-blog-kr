@@ -14,7 +14,7 @@ tags:
 description: '넷플릭스 드라마 다큐멘터리 소셜 딜레마를 본 마케터의 콘텐츠 리뷰'
 ---
 
-## 구글 AI 윤리팀의 연이은 사태
+## 구글 AI 윤리팀의 연이은 사퇴
 
 ![google](/img/posts/01-social-dilemma/timnit-gebru.jpeg)
 
