@@ -54,7 +54,7 @@ layout: default
 
   <script>
   var event = document.querySelector('#post-content');
-  event.addEventListener("loadeddata", function( ) {
+  event.addEventListener("load", function( ) {
     gtag('event', '보기', {
     'event_category': '글',
     'event_label': '{{ page.title }}',
