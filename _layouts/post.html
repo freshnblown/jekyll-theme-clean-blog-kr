@@ -24,7 +24,8 @@ layout: default
     </div>
   </header>
 
-  <article id="post-content">
+  <article id="post-content" onload="gtag('event', '보기', {
+  'event_category': '글','event_label': '{{ page.title }}','value': 1});">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
@@ -50,7 +51,14 @@ layout: default
       </div>
     </div>
   </article>
-{% include disqus.html %}
+
+
+  <script>
+  var event = document.querySelector('#post-content');
+  event.addEventListener("scroll", function() {
+    console.log("All resources finished loading!");
+    });
+  </script>
 
   <script>
   var event = document.querySelector('#post-content');
@@ -62,3 +70,5 @@ layout: default
     });
     }, false);
   </script>
+
+{% include disqus.html %}
