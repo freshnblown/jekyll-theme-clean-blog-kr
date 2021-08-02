@@ -3,7 +3,7 @@ layout: post
 permalink: /joke-about-wanting-to-live-essay-review/
 title: '살고싶다는 농담 리뷰 - 망하려면 아직 멀었다'
 date: 2021-08-01 20:00:00 +09:00
-feature: '/img/posts/07-joke-essay-review/ joke_about_wanting_to_live_thum.png'
+feature: '/img/posts/07-joke-essay-review/joke_about_wanting_to_live_thum.png'
 categories:
   - contents_review
 tags:
