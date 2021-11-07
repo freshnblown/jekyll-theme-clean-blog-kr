@@ -3,7 +3,7 @@ layout: post
 permalink: /marketing-aeroK/
 title: '본질에 집중하다, 에어로케이의 마케팅 프로모션'
 date: 2021-11-07 13:00:00 +09:00
-feature: '/img/posts/09-insurance-mkt-3/insurance_mkt-3.png'
+feature: '/img/posts/10-marketing-aeroK/aeroK-thum.png'
 categories:
   - digital-marketing
 tags:
