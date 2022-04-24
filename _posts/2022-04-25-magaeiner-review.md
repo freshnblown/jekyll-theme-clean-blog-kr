@@ -3,7 +3,7 @@ layout: post
 permalink: /magaeiner_review/
 title: '마개이너 만났다, 내 인생이 달라졌다!'
 date: 2022-04-25 13:00:00 +09:00
-feature: '/img/posts/13-magaeiner-review/magaeiner_thum.png'
+feature: /img/posts/magaeiner_thum.png'
 categories:
   - digital-marketing
 tags:
@@ -11,6 +11,7 @@ tags:
   - 오픈소스마케팅
   - 오소마
   - 마개이너12기
+  - 콜드스타트
 description: '우연히 알게된 마개이너에 지원했고, 떨어졌다. 세 번 지원한 끝에 붙은 마개이너 스터디가 삼수할 만큼 가치가 있었냐고? 묻지마라. 더하라면 더 했을 수 있다.'
 ---
 
