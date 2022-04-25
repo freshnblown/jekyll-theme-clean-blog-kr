@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /magaeiner_12_review/
+permalink: /magaeiner_review/
 title: '마개이너 만났다, 내 인생이 달라졌다!'
 date: 2022-04-24 13:00:00 +09:00
 feature: '/img/posts/13-magaeiner-review/magaeiner_thum.png'
